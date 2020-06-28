@@ -24,3 +24,5 @@
    |  4   |    002     |    1002    | 60.5  |
 
 请用SQL实现上面的需求并将实现的效果截图说明。
+
+![image](https://github.com/codingzhengsz/SQl-Base-2019-10-10-8-4-25-546/blob/master/1.PNG?raw=true)
